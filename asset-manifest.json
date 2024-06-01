@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/signclusive/static/css/main.3cb8c730.css",
+    "main.js": "/signclusive/static/js/main.1843c2fa.js",
+    "static/js/453.f240fcb9.chunk.js": "/signclusive/static/js/453.f240fcb9.chunk.js",
+    "static/media/signclusive logo1.png": "/signclusive/static/media/signclusive logo1.8ea388c99cfeb5d1d34a.png",
+    "static/media/ranoud.jpeg": "/signclusive/static/media/ranoud.a8eca828399856aecc06.jpeg",
+    "static/media/hands.png": "/signclusive/static/media/hands.d3bb32db1d8124e59633.png",
+    "static/media/Signclusive.mp4": "/signclusive/static/media/Signclusive.6abaac093e722a42fa69.mp4",
+    "static/media/play-button.png": "/signclusive/static/media/play-button.57eb25ba6a910d2f3ca4.png",
+    "static/media/app.png": "/signclusive/static/media/app.8c8e78564d754427c70a.png",
+    "static/media/email.png": "/signclusive/static/media/email.67bda94140af311d041f.png",
+    "static/media/chat.png": "/signclusive/static/media/chat.fd7f98f26a46339d3f20.png",
+    "index.html": "/signclusive/index.html",
+    "main.3cb8c730.css.map": "/signclusive/static/css/main.3cb8c730.css.map",
+    "main.1843c2fa.js.map": "/signclusive/static/js/main.1843c2fa.js.map",
+    "453.f240fcb9.chunk.js.map": "/signclusive/static/js/453.f240fcb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cb8c730.css",
+    "static/js/main.1843c2fa.js"
+  ]
+}
