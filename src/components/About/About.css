@@ -1,5 +1,5 @@
 .about{
-    margin: 20px auto;
+    margin: 2px auto;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -14,7 +14,7 @@
     flex-basis: 56%;
 }
 .about-img{
-   margin-inline: 10px;
+   margin-inline: 5px;
     
 }
 .play-icon{

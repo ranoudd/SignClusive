@@ -1,7 +1,7 @@
 import React from 'react'
 import './Contact.css'
 import msg_icon from '../../assets/chat.png'
-import phone_icon from '../../assets/smartphone-call.png'
+// import phone_icon from '../../assets/smartphone-call.png'
 import mail_icon from '../../assets/email.png'
 
 
@@ -42,15 +42,15 @@ const Contact = () => {
         </p>
         <ul>
             <li><img src={mail_icon} alt=''/>signclusive@gmail.com</li>
-            <li><img src={phone_icon} alt=''/>+201022335544</li>
+            {/* <li><img src={phone_icon} alt=''/>+201022335544</li> */}
         </ul>
     </div>
     <div className="contact-col">
         <form onSubmit={onSubmit} >
             <label>Your name</label>
             <input type='text' name='name' placeholder='Enter your name' required/>
-            <label>Phone Number</label>
-            <input type='tel' name='phone' placeholder='Enter your mobile number' required pattern='[0-9]*'/>
+            <label>Email</label>
+            <input type="email" name="email" placeholder="Enter your Email" required pattern="^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$" />
             <label>Write your message here</label>
             <textarea name="message" rows="6" placeholder='Enter your message ...' required></textarea>
             <button type='submit' className='btnn'>Send</button>

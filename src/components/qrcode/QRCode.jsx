@@ -5,7 +5,7 @@ import './QRCode.css';
 const MyQRCodeComponent = () => { // Rename the functional component
   return (
     <div className="qr-code-container">
-      <QRCode value="https://www.youtube.com/watch?v=WbV3zRgpw_E&t=1684s" size={200}/>
+      <QRCode value="https://github.com/ShadyTarek10/Graduation_Project" size={200}/>
     </div>
   );
 }

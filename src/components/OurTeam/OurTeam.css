@@ -69,14 +69,17 @@
     height: 3px;
 }
 
-.team-img{
-    max-width: 100px;
-    padding: 6px 6px;
+.team-img {
+    width: 100px; /* Set a fixed width */
+    height: 120px; /* Set a fixed height */
+    padding: 6px; /* Consistent padding */
     background-color: #dedede;
-    -webkit-border-radius:50%;
-    -moz-border-radius:50% ;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
     border-radius: 50%;
+    object-fit: cover; 
 }
+
 
 ul.iteam-icon{
     margin-top: 25px;
@@ -112,3 +115,8 @@ ul.team-icon li a.github {
     background-color: #2b3137;
 }
 
+@media (max-width: 80em) {
+    .team-item {
+        flex: 1 1 calc(50% - 60px); /* Each item takes up 50% of the row minus margin */
+    }
+}

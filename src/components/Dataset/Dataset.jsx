@@ -1,5 +1,6 @@
 import React from 'react'
 import './Dataset.css'
+import { Link } from 'react-scroll'
 
 const Dataset = () => {
   return (
@@ -14,22 +15,19 @@ const Dataset = () => {
         <section>
           <h2>Link to Dataset</h2>
           <p>
-            <a className="link" href="link_to_your_dataset">
+            <a className="link" href="https://www.kaggle.com/datasets/ahmedkhairy11/signclusive-mediapipe/data" target="_blank">
               Explore Our Dataset
             </a>
           </p>
         </section>
         <p className="discord">Learn and share with other Signers in our Discord Community</p>
-        <a href="https://www.google.com/search?q=discord&sca_esv=4c65df5ede669cd8&sxsrf=ADLYWIL-8At5exa9d9oAGgdxOhRNwR5JLg%3A1714950820856&source=hp&ei=pBI4ZoCqMq2N7NYP3IS1mAw&iflsig=AL9hbdgAAAAAZjggtLsQp2jOpEkVdmnKu0EubBLfDvdB&oq=dis&gs_lp=Egdnd3Mtd2l6IgNkaXMqAggAMgoQIxiABBgnGIoFMgsQABiABBixAxiDATILEAAYgAQYsQMYgwEyCxAAGIAEGLEDGIMBMgsQABiABBixAxiDATILEAAYgAQYsQMYgwEYigXCAg4QLhiABBixAxiDARjUApgDAJIHAzAuM6AH1yE&sclient=gws-wiz"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="butto"
-        >
-          Join Discord Community
-        </a>
+        <div className="button-container">
+        <a href="https://discord.gg/XmaWyKeh" target='blank' rel="noreferrer" className="bttnn">Join Discord Community</a>
+
+        </div>
       </main>
     </div>
-  )
+  );
 }
 
-export default Dataset
+export default Dataset;

@@ -34,11 +34,23 @@ section p {
   font-size: 20px;
 }
 
-.butto {
+/* Parent container
+.parent-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.bttnn {
   background: #6DC9F7;
   color: #212121;
   padding: 14px 25px;
-  margin-left: 250px;
   font-size: 16px;
   border-radius: 30px;
   cursor: pointer;
@@ -49,7 +61,8 @@ section p {
   transition: transform 0.3s ease;
 }
 
-.butto:hover {
+
+.bttnn:hover{
   transform: scale(1.1);
 }
 
