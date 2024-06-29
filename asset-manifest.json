@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/signclusive/static/css/main.3cb8c730.css",
-    "main.js": "/signclusive/static/js/main.1843c2fa.js",
-    "static/js/453.f240fcb9.chunk.js": "/signclusive/static/js/453.f240fcb9.chunk.js",
-    "static/media/signclusive logo1.png": "/signclusive/static/media/signclusive logo1.8ea388c99cfeb5d1d34a.png",
-    "static/media/ranoud.jpeg": "/signclusive/static/media/ranoud.a8eca828399856aecc06.jpeg",
-    "static/media/hands.png": "/signclusive/static/media/hands.d3bb32db1d8124e59633.png",
-    "static/media/Signclusive.mp4": "/signclusive/static/media/Signclusive.6abaac093e722a42fa69.mp4",
-    "static/media/play-button.png": "/signclusive/static/media/play-button.57eb25ba6a910d2f3ca4.png",
-    "static/media/app.png": "/signclusive/static/media/app.8c8e78564d754427c70a.png",
-    "static/media/email.png": "/signclusive/static/media/email.67bda94140af311d041f.png",
-    "static/media/chat.png": "/signclusive/static/media/chat.fd7f98f26a46339d3f20.png",
-    "index.html": "/signclusive/index.html",
-    "main.3cb8c730.css.map": "/signclusive/static/css/main.3cb8c730.css.map",
-    "main.1843c2fa.js.map": "/signclusive/static/js/main.1843c2fa.js.map",
-    "453.f240fcb9.chunk.js.map": "/signclusive/static/js/453.f240fcb9.chunk.js.map"
+    "main.css": "/SignClusive/static/css/main.c8955082.css",
+    "main.js": "/SignClusive/static/js/main.691b284a.js",
+    "static/js/453.f240fcb9.chunk.js": "/SignClusive/static/js/453.f240fcb9.chunk.js",
+    "static/media/Application.mp4": "/SignClusive/static/media/Application.ac4dacb7f37eac50ccd9.mp4",
+    "static/media/khairi.jpeg": "/SignClusive/static/media/khairi.53aa351fd3eaa5ed7470.jpeg",
+    "static/media/signclusive logo1.png": "/SignClusive/static/media/signclusive logo1.8ea388c99cfeb5d1d34a.png",
+    "static/media/ranoud.jpeg": "/SignClusive/static/media/ranoud.a8eca828399856aecc06.jpeg",
+    "static/media/senary.jpeg": "/SignClusive/static/media/senary.173fcfee4fe5addb998b.jpeg",
+    "static/media/hands.png": "/SignClusive/static/media/hands.d3bb32db1d8124e59633.png",
+    "static/media/shady.jpeg": "/SignClusive/static/media/shady.b3b14502800683b40859.jpeg",
+    "static/media/loay.jpeg": "/SignClusive/static/media/loay.a206eebd0fae6059b03e.jpeg",
+    "static/media/play-button.png": "/SignClusive/static/media/play-button.57eb25ba6a910d2f3ca4.png",
+    "static/media/app.png": "/SignClusive/static/media/app.8c8e78564d754427c70a.png",
+    "static/media/moez.jpeg": "/SignClusive/static/media/moez.5cdb1620017f6eb4d665.jpeg",
+    "static/media/email.png": "/SignClusive/static/media/email.67bda94140af311d041f.png",
+    "static/media/chat.png": "/SignClusive/static/media/chat.fd7f98f26a46339d3f20.png",
+    "index.html": "/SignClusive/index.html",
+    "main.c8955082.css.map": "/SignClusive/static/css/main.c8955082.css.map",
+    "main.691b284a.js.map": "/SignClusive/static/js/main.691b284a.js.map",
+    "453.f240fcb9.chunk.js.map": "/SignClusive/static/js/453.f240fcb9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3cb8c730.css",
-    "static/js/main.1843c2fa.js"
+    "static/css/main.c8955082.css",
+    "static/js/main.691b284a.js"
   ]
 }
